@@ -1,3 +1,3 @@
 <?php
-echo "back endas"
+echo "back end"
 ?>
